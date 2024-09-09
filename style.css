@@ -63,3 +63,16 @@ button {
 button:hover {
     background-color: #66b1e6;
 }
+#resumeOutput {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    border:  2px solid #3498bd;
+    border-radius: 8px;
+    background-color: aliceblue;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.5);
+}
+#resumeOutput h2 {
+    color: #2c3e50;
+}
+    
